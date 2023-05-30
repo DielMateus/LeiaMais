@@ -1,0 +1,49 @@
+/*!****************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/leiamais-cd/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+.wp-block-create-block-leiamais-cd {
+  width: 610px !important;
+}
+.wp-block-create-block-leiamais-cd a {
+  font-size: 16pt !important;
+  color: #2f7958 !important;
+  font-family: "Open Sans" !important;
+  padding-bottom: 0 !important;
+  -webkit-text-decoration-line: none !important;
+          text-decoration-line: none !important;
+  text-decoration: none !important;
+  border: none;
+  background-color: #fff;
+}
+.wp-block-create-block-leiamais-cd button {
+  font-size: 16pt !important;
+  color: #2f7958 !important;
+  font-family: "Open Sans" !important;
+  padding-bottom: 0 !important;
+  -webkit-text-decoration-line: none !important;
+          text-decoration-line: none !important;
+  text-decoration: none !important;
+  border: none;
+  background-color: #fff;
+}
+.wp-block-create-block-leiamais-cd button:after {
+  content: " →";
+  width: 16px !important;
+  height: 9px !important;
+  color: #2f7958 !important;
+}
+
+.components-grid.components-tools-panel.color-block-support-panel {
+  display: none;
+}
+
+button.components-button.block-editor-block-styles__item.is-active.is-secondary {
+  display: none;
+}
+
+button.components-button.block-editor-block-styles__item.is-secondary {
+  display: none;
+}
+
+/*# sourceMappingURL=index.css.map*/
